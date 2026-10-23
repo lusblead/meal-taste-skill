@@ -1,0 +1,14 @@
+# Personal state must stay outside the skill repository.
+profile.json
+candidates.json
+events.json
+state/
+skill-data/
+.env
+.env.*
+*.cookie
+cookies*
+__pycache__/
+*.py[cod]
+.venv/
+dist/
